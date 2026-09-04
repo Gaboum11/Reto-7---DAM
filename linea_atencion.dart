@@ -1,6 +1,5 @@
-import 'servicio.dart';
-import 'atencion.dart';
-import 'categoria_servicio.dart';
+import 'class_atencion.dart';
+import 'main.dart';
 
 class LineaAtencion {
   const LineaAtencion(this.servicio, this.sesiones);

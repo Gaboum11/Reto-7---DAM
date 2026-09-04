@@ -1,3 +1,5 @@
+import 'linea_atencion.dart';
+
 class Atencion {
   Atencion(this.codigo, [List<LineaAtencion> lineas = const []])
     : lineas = List.unmodifiable(lineas);
